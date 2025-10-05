@@ -6,7 +6,7 @@ This script was originally built for a custom framework, but can easily be adapt
 
 ✨ Features
 
-- Saves player coordinates automatically or manually
+- Saves player coordinates automatically
 
 - Loads the last known position when a player reconnects
 
