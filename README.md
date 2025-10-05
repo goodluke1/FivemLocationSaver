@@ -16,7 +16,7 @@ This script was originally built for a custom framework, but can easily be adapt
 
 ⚙️ How It Works
 
-When a player disconnects, their current coordinates are saved to the database.
+When a player disconnect, their current coordinates are saved to the database.
 
 When they reconnect, the script checks the database and restores their previous location.
 
